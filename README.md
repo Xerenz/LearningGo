@@ -1,2 +1,2 @@
-# SA-poster-co-branding
-Project - dynamic co-branding an image
+# Learning Go
+Starting out with Go programming language.
